@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://i.hizliresim.com/saiskq7.png"></p>
 
-# ✨ [Demo](demoss)
+# ✨ [Demo](https://react-notes-app-pied.vercel.app/)
 
 ## Install
 
