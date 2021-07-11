@@ -1,0 +1,27 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css");
+
+body{
+background: rgb(74,130,232);
+background: linear-gradient(90deg, rgba(74,130,232,1) 0%, rgba(246,215,223,1) 100%);
+width: 100vw;
+height: 100vh;
+}
+.notes{
+    width: 30%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.note-head{
+    background-color: beige;
+}
+.markdown{
+    width: 100%;
+    height: 1px;
+    border:1px rgba(128, 128, 128, 0.233) solid;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.note-edit{
+    border: none;
+
+}
